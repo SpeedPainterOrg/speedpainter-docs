@@ -1,5 +1,5 @@
 site_name: SpeedPainter Documentation
-site_url: https://www.speedpainter.org/en
+site_url: https://speedpainter.readthedocs.io/en/latest/
 site_description: Technical documentation, workflow guides, and MCP integration reference for SpeedPainter AI whiteboard explainer videos and drawing timelapses.
 repo_url: https://github.com/SpeedPainterOrg/speedpainter-docs
 theme:
