@@ -7,6 +7,7 @@
 - **[SpeedPainter Home](https://www.speedpainter.org/en)** — Create narrated whiteboard animations and speed-painting timelapses online.
 - **[Whiteboard Video Maker](https://www.speedpainter.org/en/whiteboard-video-maker)** — Build step-by-step illustrated whiteboard videos directly from text scripts.
 - **[AI Drawing Timelapse Generator](https://www.speedpainter.org/en/ai-drawing-timelapse-generator)** — Turn concepts and sketches into fluid hand-drawn speed-painting timelapses.
+- **[Doodle Video Maker](https://www.speedpainter.org/en/doodle-video-maker)** — Generate hand-drawn doodle clips for product demos, tutorials, and social posts.
 - **[Hand-Drawn Explainer Videos](https://www.speedpainter.org/en/explainer-video)** — End-to-end narrated explainer workflow with synchronized captions.
 - **[Product Explainer Videos](https://www.speedpainter.org/en/explainer-video/product)** — Communicate SaaS features, architecture, and onboarding flows clearly.
 - **[Education Explainer Videos](https://www.speedpainter.org/en/explainer-video/education)** — Visual lessons and classroom concept breakdowns.
